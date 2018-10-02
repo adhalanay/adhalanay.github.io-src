@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sisteme liniare
-date: 10-10-2016
+date: 10-03-2018
 comments: true
 sharing: false
 category: Anul-I
