@@ -11,7 +11,7 @@ footer: true
 
 1. Reformulaţi exerciţiile 3 şi 4 de săptămîna trecută folosind noţiunile de la
    curs.
-2. Fie $V$ un spaţiu vectorial şi $\left\{v_1,v_2,v_3 \in V\right\}$ liniar-independenţi.
+2. Fie $V$ un spaţiu vectorial şi $\left\{v_1,v_2,v_3\right\} \subset V$ liniar-independenţi.
    Arătaţi că $\left\{v_1,v_1+v_2,v_1+v_2+v_3\right\}$ sînt liniar independenţi.
 3. Fie $K$ un corp, $n >1$ și $V=M_n(K)$.
 
