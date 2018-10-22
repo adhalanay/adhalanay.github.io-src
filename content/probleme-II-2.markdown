@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tema 2 - Curbe și Suprafețe
+title: Curbura curbelor plane
 comments: true
 sharing: false
 category: Anul-II
