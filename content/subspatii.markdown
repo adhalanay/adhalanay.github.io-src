@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Subspaţii vectoriale
-date: 10-22-2018
 comments: true
 sharing: false
 category: Anul-I
@@ -19,7 +18,7 @@ footer: true
       3. $x_1 = (2,1,0),x_2=(1,2,3),x_3 = (-5,-2,1)$ şi $y_1 = (1,1,2),
          y_2 = (-1,3,0), y_3 = (2,0,3)$.
 
-2. Scrieţi vectorul $x=(1,0,1)$ ca suma $x=z_1+z_2$ cu $z_1 \in L_2$, $z_2 \in
+2. Scrieţi vectorul $x=(1,0,1)$ ca suma $x=z_1+z_2$ cu $z_1 \in L_1$, $z_2 \in
    L_2$, de la 1.3.
 
 3. Pentru spaţiile de la exerciţiul 1. determinaţi cîte o matrice $A$, astfel

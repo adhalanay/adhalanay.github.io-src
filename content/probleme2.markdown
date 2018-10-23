@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tema 2
-date: 10-22-2018
+date: 10-22-2016
 comments: true
 sharing: false
 category: Anul-I
