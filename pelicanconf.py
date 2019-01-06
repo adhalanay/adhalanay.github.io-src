@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Bucharest'
 DEFAULT_DATE = 'fs'
-STATIC_PATHS = ['pdf']
+STATIC_PATHS = ['pdf','imagini']
 THEME = "/home/andrei/repozitorii/elegant"
 #PAGINATED_DIRECT_TEMPLATES = ('categories', 'archives')
 
@@ -33,8 +33,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#('Another social link', '#'),)
+
+LANDING_PAGE_ABOUT = {'title' : 'Teme şi altele',
+        'details': 'e-mail:halanay@fmi.unibuc.ro'}
 
 DEFAULT_PAGINATION = 30
 

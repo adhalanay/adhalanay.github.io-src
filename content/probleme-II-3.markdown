@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Tema 3 - Curbe și Suprafețe"
+title: Curbe în spaţiu
 comments: true
 sharing: false
 category: Anul-II
@@ -19,7 +19,7 @@ footer: true
     1. Curbura în $t$ este
 	     $$ k(t)=\frac{||c(t)'\times c''(t)||}{||c'(t)||^3}$$
     2. Torsiunea în $t$ este 
-	     $$ \tau(t)=-\frac{\langle c'(t)\times c''(t),c'''(t)\rangle}{||c'(t)
+	     $$ \tau(t)=\frac{\langle c'(t)\times c''(t),c'''(t)\rangle}{||c'(t)
 	     \times c''(t) ||^2}$$
 
 3. Arătați că dacă toate planele osculatoare ale unei curbe sînt concurente, atunci curba este plană.
