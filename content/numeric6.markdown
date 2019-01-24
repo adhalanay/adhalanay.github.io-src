@@ -8,5 +8,5 @@ tags: Note, Anul-III
 footer: true
 ---
 
-[ Notele ]({filename}/pdf/Numerica-2017-final.pdf)
+[ Notele ]({static}/pdf/Numerica-2017-final.pdf)
 -------------------------------------------------------------------
