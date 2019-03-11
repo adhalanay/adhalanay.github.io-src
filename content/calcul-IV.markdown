@@ -8,7 +8,6 @@ tags: Teme, Anul-III
 footer: true
 ---
 
-A patra [ temă ]({filename}/pdf/IntroSoftMat-Laborator-04.pdf) de Laborator.
-**Bonus:** Scrieți un program (nu neapărat în Matlab) care dă rezultatele corecte pentru problema 3,
-punctele e) și f).
+A patra [ temă ]({static}/pdf/2018-2019-IntroSoftMat-Laborator04.pdf) de Laborator.
+[ Date1 ]({filename}/pdf/Date1.txt) şi [ Date2 ]({filename}/pdf/Date2.txt) 
 
